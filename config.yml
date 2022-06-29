@@ -4,3 +4,8 @@ jwt:
 posco:
   name: "{cipher}56d8fd45bc8cba48b451b5086214d98c4eed2dbc5527bacc03939525c6f886f7"
   count: 20
+test:
+  datasource:
+    url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&amp&characterEncoding=UTF-8
+    username: root
+    password: 1234

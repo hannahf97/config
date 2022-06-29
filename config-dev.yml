@@ -14,4 +14,4 @@ spring:
     url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&amp&characterEncoding=UTF-8
     characterEncoding: UTF-8
     username: root
-    password: "{chiper}56d8fd45bc8cba48b451b5086214d98c4eed2dbc5527bacc03939525c6f886f7"
+    password: "{chiper}aef47b74a38f0bc9fb504cf7928b813b529bbd3bbd5ade4fc1711f8a7b1a5938"
